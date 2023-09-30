@@ -1,0 +1,150 @@
+body{
+    background-color: rgb(152 152 152);
+}
+
+.space{
+
+    height: 20px;
+
+}
+.card-1{
+    background-color: white;
+    width: 20rem;
+}
+
+.card-1-img-top {
+    width: 17%;
+    border-top-left-radius: calc(0.25rem - 1px);
+    border-top-right-radius: calc(0.25rem - 1px);
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.bank-icon{
+    font-size: 25px;
+}
+
+.view-details p{
+    color: #47c89c;
+}
+.line{
+    border-bottom: 1px solid rgb(217, 217, 217);
+    width: 70%;
+}
+
+.graph-up{
+    width: 30%;
+    background-color: rgb(240 243 243);
+}
+
+.graph-up i{
+    font-size: 30px;
+}
+
+.box-graph{
+    width: 20% ;
+    background-color: rgb(209, 209, 209);
+}
+
+.flex-2{
+    display: flex;
+    justify-items: flex-start;
+}
+.card-2{
+    background-color: white;
+    width: 30rem;
+}
+
+.cooper-image img{
+    width: 60%;
+}
+.Manager{
+    color: #47c89c;
+}
+
+.card-4{
+    background-color: black;
+    width: 15rem;
+    color: white;
+}
+
+.lorem{
+    line-height: 2;
+}
+
+d{
+    border-bottom: 2px solid orangered;
+}
+
+.card-5{
+    background-color: rgb(18, 15, 40);
+    width: 15rem;
+    color: white;
+}
+
+.cup i{
+    color: palevioletred;
+    font-size: 40px;
+}
+
+.display{
+    width: 24%;
+    border-radius: 50%;
+    background-color: orangered;
+}
+
+.display i{
+    font-size: 40px;
+    color: white;
+}
+
+.read-more{
+    color: orangered;
+}
+.read-more p{
+    font-size: 11px;
+}
+
+.card-7{
+ 
+    background-color: white;
+    width: 20rem;   
+}
+.digital-marketing{
+    
+    font-family: fangsong;
+}
+
+.woman img{
+    width:100% ;
+}
+
+.alison{
+    color: orangered;
+}
+
+.lorem-1{
+    line-height: 2;
+    font-size: 20px;
+}
+
+.card-8{
+    background-color: white;
+    width: 30rem; 
+
+}
+
+.engineer img{
+    width: 150px;
+}
+.flex-3{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.flex-container{
+  display: flex;
+}
