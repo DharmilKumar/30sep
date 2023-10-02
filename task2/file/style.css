@@ -1,0 +1,317 @@
+.space{
+    height: 40px;
+}
+body{
+    background-color: gray;
+}
+.card{
+    background-color: white;
+    width: 20rem;
+}
+
+.image1 img{
+    width :100%;
+}
+.read-more p{
+    font-size: 13px;
+    font-weight: 500;
+    color: rgb(120 220 188);
+}
+.card-1-date{
+    font-size: 13px;
+    font-weight: 500;
+}
+
+
+.card-2{
+    background-color: #121212;
+    width: 25rem;
+}
+
+.card-2-img img{
+    width: 50%;
+}
+.card-2-p p{
+    color: white;
+}
+.card-2-flex{
+    color: white;
+}
+.card-2-submit{
+    
+    padding-top: .4rem!important;
+}
+.card-2-submit input{
+    width: 240%;
+    text-align: left;
+    border-color: aquamarine;
+    background: #121212;
+    color: gray;
+
+}
+
+.card-2-icon i{
+    font-size: 165%;
+    padding-left: 7.3rem;
+    color: aquamarine;
+
+}
+.card-3{
+    width: 30rem;
+}
+
+.card-3-img img{
+    width: 64px;
+}
+.card-3-border{
+    border-left: 1px solid #d5d5d5;
+    font-size: 40px;
+    text-align: center;
+} 
+.card-3-bottom e{
+    font-size: 12px;
+    font-weight: 500;
+    color: #d33900;
+}
+.get-service{
+    font-family: sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    color: #ef4100;
+}
+
+.card-4{
+    width: 37rem;
+}
+.card-4-top{
+    color: orangered;
+    font-size: 13px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.card-4-mid{
+    
+    font-family: revert;
+}
+.card-5{
+    background-color: #121212;
+    width: 27rem;
+    color: white;
+}
+
+.card-6-top{
+    color: white;
+    background-color: black;
+}
+
+.wr{
+    font-size: 12px;
+}
+
+.month{
+    color: red;
+    font-size: 12px;
+}
+.card-6-bottom{
+    font-size: 13px;
+}
+
+.card-6-head{
+    font-family: math;
+}
+
+.card-7{
+    width: 25rem;
+}
+.card-7-img img{
+    width: 100%;
+}
+.card-7-mid{
+    font-size: 19px;
+    font-family: 'FontAwesome';
+}
+
+.card-8{
+    width: 40rem;
+    color: white;
+    font-family: cursive;
+    background-color: rgb(7 9 23);
+}
+
+f{
+    border-bottom: 3px solid palevioletred;
+}
+
+.card-9{
+    width: 20rem;
+    color: white;
+    font-family: cursive;
+    background-color: rgb(7 9 23);
+}
+.card-9-img img{
+    width: 100%;
+    border-radius: 3%;
+}
+.Kristin{
+    font-size: 13px;
+}
+
+.card-10{
+    width: 50rem;
+}
+.say-hello{
+    font-size: 13px
+}
+g{
+    
+    border-bottom: 3.5px solid #ff99bb;
+
+}
+
+.quis{
+    font-size: 13px;
+}
+.hellonic{
+    color:#ff99bb
+}
+
+.card-11{
+    width: 43rem;
+    color: white;
+    background-image: url("background2.jpg");
+    background-size: 100%;
+}
+
+.spoon{
+    font-size: 28px;
+    color: #ffcb6b;
+    transform: rotate(90deg);
+}
+.what-we{
+    color: #ffcb6b;
+    font-family: initial;
+}
+.quote{
+    font-size: 45px;
+    color: white;
+}
+.scelerisque{
+    color: #d5d5d5;
+}
+.what-we-size{
+    font-size: 55px;
+}
+
+.card-12{
+    background-color: rgb(27 27 28);
+    color: white;
+}
+.card-12-img img{
+    width: 100%;
+}
+.December{
+    font-size: 12px;
+}
+.Prepare{
+    font-size: 21px;
+    font-family: 'FontAwesome';
+    color: #a78e5d;
+}
+.card-12-lorem{
+    font-size: 12px;
+}
+.card-12-read{
+    color: #a78e5d;
+    font-size: 12px;
+    font-family: 'FontAwesome';
+}
+
+.card-13{
+    background-image: url("background3.jpg");
+    background-size: 100%;
+    color: white;
+}
+.work{
+
+    font-family: 'FontAwesome';
+}
+.time{
+    color: #a78e5d;
+}
+
+
+.card-14{
+    width: 25rem;
+}
+.grid-color{
+    color: orangered
+}
+.card-14-title{
+    font-size: 28px;
+    font-family: 'FontAwesome';
+}
+
+.card-14-img img{
+    width: 100%;
+}
+.card-14-bottom{
+    font-size: 13px;
+}
+.dot{
+    font-size: 25px;
+    color: orangered;
+}
+
+.arrow-14{
+    font-size: 25px;
+    color: rgb(255 126 79);
+}
+.card-15-top-line{
+    
+    width: 20px;
+    position: relative;
+    margin: 15px;
+    border-bottom: 2px solid orangered;
+}
+.Experience{
+    font-size: 11px;
+}
+
+.card-15{
+    width: 35rem;
+    font-family: 'FontAwesome';
+}
+.card-15-lorem{
+    font-size: 13px;
+}
+.card-15-bottom{
+    color: white;
+    background-color: orangered;
+    font-size: 14px;
+    width: 28%;
+}
+
+.card-16-bottom-line{
+    width: 90%;
+    border-bottom: 5px solid #ffcb28;
+}
+/* .box{
+    width: 75%;
+    height: 75%;
+    background-color: blue;
+    border-bottom-left-radius: 20%;
+} */
+.card-16-img img{
+    padding: 0 20px 20px 0;
+    background: linear-gradient(blue 0 0) -3% -1% / 80% 80% no-repeat;
+    width: 100%;   
+}
+.card-16{
+    width: 25rem;
+}
+.card-16-dot{
+    color: yellow;
+    font-size: 6px;
+}
+.card-16-lorem{
+    font-size: 15px;
+}
